@@ -1,2 +1,3 @@
 # My_First_Repo
-testing using github
+Me testing using github
+I love burritos and pizzas
